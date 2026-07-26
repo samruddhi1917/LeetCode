@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samruddhi1917/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/samruddhi1917/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/samruddhi1917/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/samruddhi1917/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/samruddhi1917/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/samruddhi1917/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -51,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/samruddhi1917/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/samruddhi1917/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
