@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/samruddhi1917/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/samruddhi1917/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samruddhi1917/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/samruddhi1917/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/samruddhi1917/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samruddhi1917/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/samruddhi1917/LeetCode/tree/main/0050-powx-n/) | Medium |
 | [0066-plus-one](https://github.com/samruddhi1917/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/samruddhi1917/LeetCode/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samruddhi1917/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -40,10 +42,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/samruddhi1917/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samruddhi1917/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/samruddhi1917/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/samruddhi1917/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
