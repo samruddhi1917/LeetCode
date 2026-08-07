@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/samruddhi1917/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0881-boats-to-save-people](https://github.com/samruddhi1917/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/samruddhi1917/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/samruddhi1917/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/samruddhi1917/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/samruddhi1917/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/samruddhi1917/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/samruddhi1917/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
