@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/samruddhi1917/LeetCode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/samruddhi1917/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
+| [0415-add-strings](https://github.com/samruddhi1917/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samruddhi1917/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0415-add-strings](https://github.com/samruddhi1917/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/samruddhi1917/LeetCode/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/samruddhi1917/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -104,5 +106,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/samruddhi1917/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/samruddhi1917/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/samruddhi1917/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0415-add-strings](https://github.com/samruddhi1917/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/samruddhi1917/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
