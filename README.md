@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/samruddhi1917/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/samruddhi1917/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samruddhi1917/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/samruddhi1917/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/samruddhi1917/LeetCode/tree/main/0066-plus-one/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/samruddhi1917/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/samruddhi1917/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/samruddhi1917/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/samruddhi1917/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -111,4 +113,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/samruddhi1917/LeetCode/tree/main/0415-add-strings/) | Easy |
 | [0541-reverse-string-ii](https://github.com/samruddhi1917/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/samruddhi1917/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/samruddhi1917/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
