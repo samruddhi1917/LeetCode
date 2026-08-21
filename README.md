@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/samruddhi1917/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/samruddhi1917/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/samruddhi1917/LeetCode/tree/main/0392-is-subsequence/) | Easy |
+| [0443-string-compression](https://github.com/samruddhi1917/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/samruddhi1917/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/samruddhi1917/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/samruddhi1917/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/samruddhi1917/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/samruddhi1917/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/samruddhi1917/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0443-string-compression](https://github.com/samruddhi1917/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0541-reverse-string-ii](https://github.com/samruddhi1917/LeetCode/tree/main/0541-reverse-string-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/samruddhi1917/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Trie
