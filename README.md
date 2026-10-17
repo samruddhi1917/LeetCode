@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samruddhi1917/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/samruddhi1917/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/samruddhi1917/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/samruddhi1917/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/samruddhi1917/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0881-boats-to-save-people](https://github.com/samruddhi1917/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/samruddhi1917/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/samruddhi1917/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/samruddhi1917/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -122,4 +124,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/samruddhi1917/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/samruddhi1917/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
