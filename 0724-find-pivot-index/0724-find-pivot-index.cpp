@@ -19,11 +19,9 @@ public:
         }
         reverse(prefix2.begin(), prefix2.end());
 
-        int pivot;
         for(int i=0;i<nums.size();i++){
             if(prefix1[i]==prefix2[i]){
-                pivot=i;
-                return pivot;
+                return i;
             }
             
         }
