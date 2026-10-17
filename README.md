@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/samruddhi1917/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/samruddhi1917/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/samruddhi1917/LeetCode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0724-find-pivot-index](https://github.com/samruddhi1917/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/samruddhi1917/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/samruddhi1917/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/samruddhi1917/LeetCode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/samruddhi1917/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/samruddhi1917/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/samruddhi1917/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
